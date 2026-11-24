@@ -238,3 +238,4 @@ Modelos disponibles: `tiny`, `base`, `small`, `medium`, `large-v3`.
 - [core/video_processor.py](file:///home/jovillafane/Descargas/Sistemas/traductor/core/video_processor.py): Remultiplexado, subtítulos embebidos y quemados.
 - [tests/create_sample_and_test.py](file:///home/jovillafane/Descargas/Sistemas/traductor/tests/create_sample_and_test.py): Prueba automatizada de extremo a extremo con video sintético.
 # traductor
+# traductor
