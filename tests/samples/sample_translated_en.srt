@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,130
+Hey and welcome.
+
+2
+00:00:02,130 --> 00:00:07,130
+Today we will learn how to translate videos from
+Spanish to Spanish using artificial intelligence.
